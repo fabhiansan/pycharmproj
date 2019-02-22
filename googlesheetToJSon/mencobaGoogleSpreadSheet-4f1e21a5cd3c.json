@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "silken-mile-232502",
+  "private_key_id": "4f1e21a5cd3c6268589aedd043b6bf4b2e414aaf",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCklG5hnCN3UEBL\nkXo2UrEwsf68UmyFygPfmBSrlPVCU1vTw3XdgYv5QYeOfN2FdTWWJw53G4A1dNm2\n1vISQT1K8EcFJ+9flaO3DsX7/pomQ+mS6Cnul3Uqv00ebg1n64RoQhZjQn+8btNp\nbz7e6fy2eNQLWi3tyYqIFoVsRcrK5Qa6U2smtt6fsbyezoCgFDFvann3BtdKdt6H\nhwLfr0QCNfC4zuiX4jtHIhR6/WQl1xN47xbuiEChbR5VeEmi9pZyRONirSLprCPk\nkUBcQT9kpcvKA5fuIVIoXXA61OBmbpOEWkKgV8AidngvtvZ6XiPNYh6SjvEKTM1/\nRtb9/oN/AgMBAAECggEAKfcrOjp9FKRi8KH0vrtRMTCB2vVNdMPxPudhheriqvnk\ndVfmyweIcJNUBHI0bh5X/qSQ3LAnffoAtc2TRjJadaxU/6ySLhZS+4+Jzlq6Zb11\nZp9Kaes21iKXgIXhZzk3tvn7CW5gceT0hXL3XhHd/Y1LzGU/Rt3YNCFB/jzBnABn\nXzDwPzTqWwYaz7Nthlt/BYXUyEme/+CPulfX91b6EXZI1Dq0DZTV/xwoZ9rJQR0j\nPJBVYeJOakREorkJuPOIhzZWgNn1c0UHnES97xgYKSZJRFC3dYd0G17FtOM95Snl\n7IFgGRHC2KPNydTEMTYMDWgei5v2RLiag5CTeITccQKBgQDZdl67otox+kZ7hJDd\nUALD5gFI4wL3/toMy1xuY7iuP4U5sJUAUEuGG+6oW8bEtPOVVxc2XEQeorxB+yQN\nzzBdSKXXnLzOuE/DvQiQ8GoDq4vXOiD6XIx0Y/Yx/EsLnBFuQWuSJS23yQtdteSK\nEz9pMKLqAl2ELxGt5zKaWqgMGQKBgQDBvu8aSb0AOpso/jPv+Tz9cg0iN3kXO89R\nTMVz8X5OrCZ4NyAmv0ebBQXezTjH+ix7yv1dQFvfgCS02DpGrGZg81jjX5lfR8vT\nMosGps3aoDs82Clk1nVMg0SHTpgBPaEKBIRlKjRAeQ7YJiucnOMOcpXvnY8atD7T\nuwVYlDJ/VwKBgH+Ue5WXwG1LyOgUaSz+EPE/Uoehb49xPBn/gRXeeW35JD8pQvFx\nKi3e21B4r4+eHb4C30JsNSbIEKyhG5DiehxwT6PEd9zLszhCAfGOqpPGo/88Qja/\n70Mllj3TJ3ADOxK1XNfb6guF7p4m5ZLAIhajiyDBDH5NYxDksAJwp2CZAoGAB7vP\nX4VB/hhYyTIccJ/KR3OeApekRcElbWFbIF2rZQiKIJJSvjk0aoOw0Evw0Eq0K9zW\ncDp5cFp1HKLk8J1BGO2dxrWyMZN0F2IVGpbd8LQkqTEXtea5l+xFeAEzIBmNrBCy\nGDevDkPGy+n6I64/gfwg8AeiBrbbKyhz9i00NtECgYAUEc9b1OoHRarBeXUGH5af\nWQXRX+uhHNYmJWcAqZQJZVtCWQ/g4B5gQwsyb/EUCHTyn4WfKavAKaZ2C5upll4o\nFWeOC7nX+1i06z4UnvpuBgBrpbgoG++aGCt2TfEQYcXqO3xMYTMUOTuJOk9ERwrT\nlKzLfqTAHZp+rO0h5Ehq9w==\n-----END PRIVATE KEY-----\n",
+  "client_email": "fabhianto@silken-mile-232502.iam.gserviceaccount.com",
+  "client_id": "107284593860021755768",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/fabhianto%40silken-mile-232502.iam.gserviceaccount.com"
+}
